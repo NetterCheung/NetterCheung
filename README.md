@@ -2,7 +2,7 @@
 
 ### 🤖 AI Engineer | 🚀 Copilot Studio Builder | ☁️ Azure OpenAI Developer
 
-!ttps://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&style=for-the-badge
+[!ttps://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&style=for-the-badge](https://komarev.com/ghpvc/?username=NetterCheung&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -22,6 +22,11 @@ Focus:
 Mission:
   Building intelligent solutions that solve real business problems.
 ```
+## 📊 GitHub Stats
+
+!GitHub Stats
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight
 
 ## ☁️ Skill Matrix
 
