@@ -1,32 +1,17 @@
-<div align="center">
+# 👋 Hi, I'm Netter Cheung
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0ea5e9,100:2563eb&text=Zhang%20Cheung&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"ung
+### 🤖 AI Engineer | 🚀 Copilot Studio Builder | ☁️ Azure OpenAI Developer
 
-### 🤖 AI Engineer • 🚀 Copilot Builder • ☁️ Azure OpenAI Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents;Microsoft+Copilot+Studio+Expert;Azure+OpenAI;RAG+Architecture+Builder;Transforming+Ideas+Into+Intelligent+Solutions
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.badge&color=blue" />
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=NetterCheung&label=Profile75b6&style=for-the-badge
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```yaml
 Name: Zhang Cheung
 
 Location: Hong Kong
-
-Role:
-  - AI Engineer
-  - Copilot Builder
-  - Full Stack Developer
 
 Focus:
   - AI Agents
@@ -37,40 +22,32 @@ Focus:
   - Knowledge Management
 
 Mission:
-  Turning complex business requirements into practical AI solutions.
+  Building intelligent solutions that solve real business problems.
 ```
 
 ---
 
-# 🤖 AI & Cloud Stack
+## 🤖 AI & Cloud Stack
 
-<div align="center">
-
-illicons.dev/icons?i=azure,python,typescript,javascript,react,nextjs,nodejs,docker,git,github,vscode" />
-
-</div>
+![My Skills](https://skillicons.dev/icons?i=azure,python,vascript,react,nextjs,nodejs,docker,git,github,vscode
 
 ---
 
-# ☁️ Microsoft AI Ecosystem
+## ☁️ Microsoft AI Ecosystem
 
-<div align="center">
-
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-007e-badge&logo=microsoftazure&logoColor=white
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&ure&logoColor=white
 
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studiothe-badge&logo=microsoft&logoColor=white
 
-![Power Platform](https://img.shields.io/bm-742774?style=for-the-badge
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-thes](https://img.shields.io/badge/AI_?style=for-the-badge
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-0EA5E9?style=for-the://img.shields.io/badge/RAG-2563EB?style=for-the-badge
+![RAG](https://img.shields.io/badge/RAG?style=for-the-badge
 
-![Semantic Kernel](https://img.shields.io/badge2BD4?style=for-the-badge
-
-</div>
+![Semantic Kernel](https://img.shields.io/badge/SD4?style=for-the-badge
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🤖 AI Agent Development
 - 🚀 Microsoft Copilot Studio
@@ -79,33 +56,30 @@ illicons.dev/icons?i=azure,python,typescript,javascript,react,nextjs,nodejs,dock
 - 🔍 Enterprise Knowledge Search
 - 🧩 Multi-Agent Architecture
 - 🔄 Business Process Automation
-- 🏢 Enterprise AI Adoption
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NetterCherue&theme=tokyonight
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NetterCheungkyonight&hide_border=true
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetterCheungyonight&hide_border=true
-
-</div>
+![Top Languagesreadme-stats.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-kuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true
-
-</div>
+https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight
 
 ---
 
-# ☁️ Skill Matrix
+## 🏆 GitHub Trophy
+
+https://github-profile-trophy.vercel.app/?username=NetterCheung&theme=tokyonight&column=4
+
+---
+
+## ☁️ Skill Matrix
 
 ```text
 Azure OpenAI              ██████████████████░░ 90%
@@ -127,30 +101,30 @@ React / Next.js           ████████████████░░
 
 ---
 
-# 🌟 Featured Expertise
+## 🌟 Featured Expertise
 
-## 🤖 AI Agents
+### 🤖 AI Agents
 
 - Multi-Agent Systems
 - Agent Orchestration
 - Autonomous Workflows
 - Enterprise AI Solutions
 
-## ☁️ Azure
+### ☁️ Azure
 
 - Azure OpenAI
 - Azure AI Search
 - Azure Functions
 - Container Apps
 
-## 📚 RAG
+### 📚 RAG
 
 - Vector Database
 - Semantic Search
 - Enterprise Knowledge Base
 - Intelligent Retrieval
 
-## 🚀 Development
+### 🚀 Development
 
 - React
 - Next.js
@@ -159,37 +133,33 @@ React / Next.js           ████████████████░░
 
 ---
 
-# 🔨 Currently Building
+## 🔨 Currently Building
 
 ```yaml
 Projects:
 
   AgentHub:
-    Description: Enterprise AI Agent Platform
+    Enterprise AI Agent Platform
 
   Smart Copilot:
-    Description: Microsoft Copilot Accelerator
+    Microsoft Copilot Accelerator
 
   KnowledgeGPT:
-    Description: Enterprise RAG Engine
+    Enterprise RAG Engine
 
   AI Workspace:
-    Description: Multi-Agent Collaboration Environment
+    Multi-Agent Collaboration Environment
 ```
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
-<div align="center">
-
--readme-activity-graph.vercel.app/graph?username=NetterCheung&theme=tokyo-night" />
-
-</div>
+https://github-readme-activity-graph.vercel.app/graph?username=NetterCheung&theme=tokyo-night
 
 ---
 
-# ☕ Rapid Fire
+## ☕ Rapid Fire
 
 ```yaml
 Favorite IDE:
@@ -209,32 +179,22 @@ Favorite AI Topic:
 
 Currently Learning:
   Multi-Agent Systems
-  MCP
+  MCP Protocol
   Semantic Kernel
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
-.com/NetterCheung">
-  .shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+- GitHub: https://github.com/NetterCheung
+- LinkedIn: （填你的 LinkedIn）
+- Email: netter.c.zhang@gmail.com
 
 ---
 
-<div align="center">
-
 ## 💡 Quote
 
-*"AI doesn't replace great engineers. It amplifies them."*
+> AI doesn't replace great engineers. It amplifies them.
 
-### Thanks for visiting 👋
-
-</div>
-
-://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0ea5e9,100:2563eb" width="100%" />
+Thanks for visiting 👋
