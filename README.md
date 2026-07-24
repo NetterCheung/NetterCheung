@@ -23,7 +23,7 @@ Mission:
   Building intelligent solutions that solve real business problems.
 ```
 ⚡ Tech Stack
-https://skillicons.dev/icons?i=azure,python,typescript,javascript,react,nextjs,nodejs,docker,git,github,vscode
+<p align="center"> <img src="https://skillicons.dev/icons?i=azure,python,typescript,javascript,react,nextjs,nodejs,docker,git,github,vscode,postman" alt="Tech Stack" /> </p>
 
 ## 📊 GitHub Stats
 
