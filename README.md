@@ -24,8 +24,6 @@ Mission:
 ```
 ## 📊 GitHub Stats
 
-!GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NetterCheung&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight)
 
