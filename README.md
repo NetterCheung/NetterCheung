@@ -22,6 +22,9 @@ Focus:
 Mission:
   Building intelligent solutions that solve real business problems.
 ```
+⚡ Tech Stack
+https://skillicons.dev/icons?i=azure,python,typescript,javascript,react,nextjs,nodejs,docker,git,github,vscode
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NetterCheung&theme=tokyonight)
