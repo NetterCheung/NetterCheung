@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Netter Cheung
 
 ### 🤖 AI Engineer | 🚀 Copilot Studio Builder | ☁️ Azure OpenAI Developer
-![Profile Views](https://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&style=for-the-badge)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/NetterCheung?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
