@@ -4,6 +4,7 @@
 
 ```yaml
 Name: Netter Cheung (Zhang Cheng)
+Location: Hong Kong
 Experience: 6+ years as Java Engineer
 
 Focus:
