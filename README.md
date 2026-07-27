@@ -50,7 +50,6 @@ Mission:
 
 <p align="center"> 
     <img width="48%" height="195px"  src="https://github-readme-stats-lake-kappa-99.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img width="48%" height="195px"  src="https://github-readme-stats-lake-kappa-99.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
