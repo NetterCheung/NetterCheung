@@ -49,13 +49,13 @@ Mission:
  📊 GitHub Analytics
 
 <p align="center"> 
-    <img width="48%" height="195px"  src="https://github-readme-stats-lake-kappa-99.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="60%" src="https://github-readme-stats-lake-kappa-99.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=NetterCheung&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy" />
+    <img width="60%" src="https://github-profile-trophy.vercel.app/?username=NetterCheung&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy" />
 </p>
 
 🎯 Current Focus
