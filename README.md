@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Netter Cheung (Zhang Cheng)
 
-### ☕ Java Backend Engineer | 🚀 Microservices & Cloud Native | 🛠️ Performance Tuner
-
 ## 🚀 About Me
 
 ```yaml
