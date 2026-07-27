@@ -2,18 +2,10 @@
 
 ### ☕ Java Backend Engineer | 🚀 Microservices & Cloud Native | 🛠️ Performance Tuner
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NetterCheung?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NetterCheung?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-</p>
----
-
 ## 🚀 About Me
 
 ```yaml
-Name: Netter Cheung
-Location: Hong Kong
+Name: Netter Cheung (Zhang Cheng)
 Experience: 6+ years as Java Engineer
 
 Focus:
