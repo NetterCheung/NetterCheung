@@ -54,9 +54,6 @@ Mission:
 <p align="center">
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-   <img width="60%" src="https://github-profile-trophy-three-rouge.vercel.app/?username=NetterCheung&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy" />
-</p>
 
 🎯 Current Focus
 <table>
