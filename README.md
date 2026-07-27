@@ -46,21 +46,17 @@ Mission:
 </p>
 
 
-📊 GitHub Analytics
+ 📊 GitHub Analytics
+
 <p align="center"> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats-lake-kappa-99.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats-lake-kappa-99.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NetterCheung&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy" />
-</p>
-
-📈 Activity Graph
-<p align="center"> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NetterCheung&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </p>
 
 🎯 Current Focus
