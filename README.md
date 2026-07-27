@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Netter Cheung
+# 👋 Hi, I'm Netter Cheung (Zhang Cheng)
 
-### 🤖 AI Engineer | 🚀 Copilot Studio Builder | ☁️ Azure OpenAI Developer
+### ☕ Java Backend Engineer | 🚀 Microservices & Cloud Native | 🛠️ Performance Tuner
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NetterCheung&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
@@ -14,45 +14,93 @@
 ```yaml
 Name: Netter Cheung
 Location: Hong Kong
+Experience: 6+ years as Java Engineer
 
 Focus:
-  - AI Agents
-  - Azure OpenAI
-  - Copilot Studio
-  - Enterprise Automation
-  - RAG Architecture
-
+  - High‑Concurrency Backend Systems
+  - JVM Performance Tuning & GC Optimization
+  - Microservices Architecture (Spring Boot, Cloud)
+  - Relational & NoSQL Databases (MySQL, Redis)
+  - Message Queues (Kafka, RocketMQ)
+  - Containerization & Orchestration (Docker, Kubernetes)
+  -
 Mission:
-  Building intelligent solutions that solve real business problems.
+  Building robust, scalable, and efficient backend solutions for enterprise needs.
 ```
 
 ⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=azure,python,typescript,javascript,react,nextjs,nodejs,docker,git,github,vscode,postman" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,docker,kubernetes,linux,git,github,idea,postman" alt="Tech Stack" /> </p>
 
-☁️ Microsoft AI Ecosystem
+☕ Java Ecosystem & Backend Tools
 <p align="center">
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" /> 
-<img src="https://img.shields.io/badge/Copilot_Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot Studio" /> 
-<img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=powerplatform&logoColor=white" alt="Power Platform" />
-<img src="https://img.shields.io/badge/Semantic_Kernel-4B32C3?style=for-the-badge&logo=microsoft&logoColor=white" alt="Semantic Kernel" /> 
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=ai&logoColor=white" alt="RAG" /> 
-<img src="https://img.shields.io/badge/AI_Agents-0EA5E9?style=for-the-badge&logo=ai&logoColor=white" alt="AI Agents" /> 
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" /> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> 
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" /> 
+    <img src="https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="RocketMQ" /> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> 
+    <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
+
 
 📊 GitHub Analytics
 <p align="center"> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetterCheung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> 
-</p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NetterCheung&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy" /> 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=NetterCheung&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophy" />
 </p>
 
 📈 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NetterCheung&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" /> </p>
+<p align="center"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NetterCheung&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+</p>
 
 🎯 Current Focus
-<table> <tr> <td>🤖</td> <td><b>AI Agent Development</b></td> <td>Multi-Agent Systems, Orchestration, Autonomous Workflows</td> </tr> <tr> <td>🚀</td> <td><b>Microsoft Copilot Studio</b></td> <td>Custom Copilots, Plugins, Enterprise Integration</td> </tr> <tr> <td>☁️</td> <td><b>Azure OpenAI Service</b></td> <td>GPT-4, Fine-tuning, Prompt Engineering</td> </tr> <tr> <td>📚</td> <td><b>RAG Architecture</b></td> <td>Vector Databases, Semantic Search, Knowledge Retrieval</td> </tr> <tr> <td>🧩</td> <td><b>Multi-Agent Architecture</b></td> <td>Agentic AI, Collaboration, Tool Calling</td> </tr> </table>
+<table>
+  <tr>
+    <td>☕</td>
+    <td>
+      <b>JVM & GC Tuning</b>
+    </td>
+    <td>Memory model, garbage collectors, heap analysis</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>
+      <b>Spring Boot / Cloud</b>
+    </td>
+    <td>Microservices, resilience, configuration management</td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td>
+      <b>MySQL Performance</b>
+    </td>
+    <td>Index optimization, SQL tuning, execution plans</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td>
+      <b>Redis & Caching</b>
+    </td>
+    <td>Data types, persistence, high‑availability</td>
+  </tr>
+  <tr>
+    <td>📨</td>
+    <td>
+      <b>Message Queues (Kafka/RocketMQ)</b>
+    </td>
+    <td>Async processing, reliability, transactional messages</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -62,54 +110,52 @@ Mission:
 ## ☁️ Skill Matrix
 
 ```text
-Azure OpenAI              ██████████████████░░ 90%
-Copilot Studio            ███████████████████░ 95%
-Prompt Engineering        ████████████████████ 100%
-AI Agents                 ██████████████████░░ 92%
-RAG                       █████████████████░░░ 88%
-Python                    █████████████████░░░ 85%
-TypeScript                █████████████████░░░ 85%
-React / Next.js           ████████████████░░░░ 82%
+Java (Core / JVM)         ████████████████████ 95%
+Spring Boot / Cloud       ███████████████████░ 92%
+MySQL / SQL Tuning        ██████████████████░░ 88%
+Redis                     ██████████████████░░ 85%
+Kafka / RocketMQ          █████████████████░░░ 82%
+Docker / Kubernetes       ████████████████░░░░ 80%
+Linux / Shell Scripting   ████████████████░░░░ 78%
+CI/CD (Jenkins/GitHub)    ████████████████░░░░ 78%
 ```
 
 ## 🔨 Current Projects
 
 ```yaml
-AgentHub:
-  Enterprise AI Agent Platform
+Data Retention Core (HSBC):
+  Data anonymization & encryption for compliance, PL/SQL tuning, Kafka async docs.
 
-Smart Copilot:
-  Microsoft Copilot Accelerator
+EMPF Platform (Lenovo PCCW):
+  High‑concurrency MPF system (500k+ daily requests), multi‑threading, Factory Pattern,
+  Restful file API (AWS S3 resumable upload), Docker + K8s deployment.
 
-KnowledgeGPT:
-  Enterprise RAG Engine
-
-AI Workspace:
-  Multi-Agent Collaboration Environment
+E‑Commerce Mini Program:
+  Coupon system with idempotency & limit‑receipt, Redis cache, RocketMQ async order.
 ```
 
 ## ☕ Quick Facts
 
 ```yaml
 Favorite IDE:
-  VS Code
+  IntelliJ IDEA
 
 Favorite Cloud:
-  Microsoft Azure
+  AWS (S3) & Azure (basic)
 
 Favorite Language:
-  Python
+  Java
 
-Favorite Frontend:
-  React + Next.js
+Favorite Framework:
+  Spring Boot
 
-Favorite AI Topic:
-  Agentic AI
+Favorite Database:
+  Oracle
 
 Currently Learning:
-  Multi-Agent Systems
-  MCP Protocol
-  Semantic Kernel
+  Spring Cloud Kubernetes
+  GraalVM native images
+  Reactive programming
 ```
 
 🐍 Contribution Snake
