@@ -164,6 +164,7 @@ Currently Learning:
 ## 🌐 Connect
 
 - GitHub: https://github.com/NetterCheung
+- Gmail: [netter.c.zhang@gmail.com](mailto:netter.c.zhang@gmail.com)
 
 ---
 
