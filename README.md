@@ -82,7 +82,7 @@ Mission:
   <tr>
     <td>🗄️</td>
     <td>
-      <b>MySQL Performance</b>
+      <b>SQL Performance</b>
     </td>
     <td>Index optimization, SQL tuning, execution plans</td>
   </tr>
