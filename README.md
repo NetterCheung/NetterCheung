@@ -36,16 +36,6 @@ Mission:
     <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
-
- 📊 GitHub Analytics
-
-<p align="center"> 
-    <img width="60%" src="https://github-readme-stats-lake-kappa-99.vercel.app/api?username=NetterCheung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=NetterCheung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 🎯 Current Focus
 <table>
   <tr>
