@@ -122,8 +122,7 @@ Favorite Database:
 
 Currently Learning:
   Spring Cloud Kubernetes
-  GraalVM native images
-  Reactive programming
+  Vue programming
 ```
 
 🐍 Contribution Snake
