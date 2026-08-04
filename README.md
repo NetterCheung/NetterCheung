@@ -112,7 +112,7 @@ Favorite Cloud:
   AWS (S3) & Azure (basic)
 
 Favorite Language:
-  Java
+  Java & Python
 
 Favorite Framework:
   Spring Boot
